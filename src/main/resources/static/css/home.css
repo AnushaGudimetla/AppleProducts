@@ -1,0 +1,48 @@
+.button
+{
+    font-size: 16px;
+    padding-top: 19px;
+    padding-bottom: 19px;
+    border: 2px solid;
+    color: #fff;
+    background-color: transparent;
+    padding-left: 85px;
+    padding-right: 85px;
+    margin-left: 30%;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+}
+
+h1
+{
+    text-align: center;
+    color: white;
+    margin-top: 5%;
+}
+
+.button-div
+{
+    text-align: center;
+    margin-top: 90px;
+}
+
+
+.apple-background {
+    background-size: cover;
+}
+
+.apple-para{
+    color: white;
+    font-size: 25px;
+}
+ul{
+    color: white;
+    margin-bottom: 7%;
+    font-size: 30px;
+}
+.apple-button{
+    margin-left: 42%;
+}
